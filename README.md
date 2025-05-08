@@ -1,4 +1,4 @@
-# 🧠🇱🇰 AI Trip Planner for the Sri Lankan Community
+# 🧠🇱🇰 AI Trip Planner for the Sri Lankan Community (Ongoing)
 
 Welcome to the **AI Trip Planner** – a smart, user-friendly travel assistant designed for the Sri Lankan community. This frontend-only web app helps you explore, visualize, and prepare for trips across the island 🌴.
 
@@ -8,9 +8,6 @@ Welcome to the **AI Trip Planner** – a smart, user-friendly travel assistant d
 
 This application is built with the goal of enhancing travel planning for locals and tourists alike, with a special focus on Sri Lanka’s culture, locations, and attractions.
 
-> 🔧 **Note**: This project currently includes only the **frontend UI** (no backend or AI functionality yet).
-
----
 
 ## 🚀 Features
 
