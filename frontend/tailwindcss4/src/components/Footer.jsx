@@ -6,7 +6,9 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
             <h3 className="text-lg font-semibold text-green-800 mb-4">
-              TravelGenie
+            <span className="text-2xl font-extrabold text-white tracking-wide drop-shadow-sm">
+            Trip <span className="text-yellow-300">Pisso</span>
+          </span>
             </h3>
             <p className="text-gray-600">
               Your AI-powered travel companion for creating perfect travel

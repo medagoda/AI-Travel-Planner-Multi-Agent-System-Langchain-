@@ -7,9 +7,9 @@ export function WelcomeSection() {
       <h1 className="text-3xl font-bold mb-2 text-gray-800">
         ආයුබෝවන් 🙏🌴🇱🇰✨ ...
       </h1>
-      <p className="text-gray-600 mb-10">
-        Your smart travel companion for exploring Sri Lanka.
-      </p>
+      <p className="text-gray-700 text-lg md:text-xl font-medium mb-10 font-sans">
+  🧳 Your smart travel companion for exploring Sri Lanka
+</p>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
   <FeatureItem 
