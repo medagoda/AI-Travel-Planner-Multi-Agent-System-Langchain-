@@ -1,62 +1,77 @@
-🧠🇱🇰 AI Trip Planner for the Sri Lankan Community
-Explore Sri Lanka smarter with an AI-powered travel assistant.
+# 🧠🇱🇰 AI Trip Planner for the Sri Lankan Community
 
-Whether you're a local adventurer or a curious tourist, this platform simplifies your travel planning with intelligent agents that provide real-time weather, train schedules, and destination recommendations — all tailored to Sri Lanka.
+**Explore Sri Lanka smarter with an AI-powered travel assistant.**
 
-🌟 Features at a Glance
-🤖 AI-Powered Agents (Built with LangChain + FastAPI)
-Weather Agent – Real-time weather updates for any location across Sri Lanka.
+An intelligent, AI-powered travel planner built to simplify and enrich your travel experience across the island. Whether you're a local adventurer or a curious tourist, this platform helps you discover the best routes, weather updates, and must-visit places in Sri Lanka — all in one place.
 
-Train Schedule Agent – Accurate and up-to-date train timings and route details.
+---
 
-Places Recommendation Agent – Discover popular attractions, hidden gems, and cultural landmarks near you.
+## 🌟 Key Highlights
 
-All agents leverage LangChain for dynamic prompt processing and are integrated into a FastAPI backend for seamless communication.
+### 🤖 AI-Powered Agents (via LangChain + FastAPI)
+- **Weather Agent** – Get real-time weather updates for any location in Sri Lanka.
+- **Train Schedule Agent** – Retrieve accurate train timings and routes.
+- **Places Recommendation Agent** – Explore top attractions and cultural landmarks nearby.
 
-🖥️ Frontend Overview
-🏠 Home Page – Welcoming UI with an intuitive overview of features.
+All agents are built using LangChain for smart prompt handling and connected via a robust FastAPI backend.
 
-ℹ️ About Page – Learn about the platform’s mission, AI capabilities, and community benefits.
+---
 
-🎨 Responsive Design – Fully optimized for both mobile and desktop using modern web technologies.
+## 🖥️ Frontend Features
 
-🛠️ Tech Stack
-Layer	Technology
-Frontend	HTML, CSS, JavaScript (or React)
-Backend	FastAPI (Python)
-AI Agents	LangChain + Custom Prompt Chains
-APIs	OpenWeather API, Train Data APIs, Google Places API
-Deployment	Optional: Add info here if deployed (e.g., Vercel, Render)
+- **🏠 Home Page** – Clean, welcoming UI with a visual introduction to the platform.
+- **ℹ️ About Page** – Describes the platform’s mission, AI capabilities, and user benefits.
+- **🎨 Responsive Design** – Optimized for mobile and desktop using modern web technologies.
 
-📸 Screenshots
-🏠 Home Page
-<!-- Replace with your actual image path -->
+---
 
-ℹ️ About Page
-<!-- Replace with your actual image path -->
+## 🛠️ Tech Stack
 
-🧭 How It Works
-Users interact with a clean, user-friendly web interface.
+| Layer     | Technology                               |
+|-----------|------------------------------------------|
+| Frontend  | HTML, CSS, JavaScript *(or React)*       |
+| Backend   | FastAPI (Python)                         |
+| AI Agents | LangChain + Custom Prompt Chains         |
+| APIs      | OpenWeather API, Train Data APIs, Google Places API |
+| Deployment| *(Optional: Vercel, Render, etc.)*       |
 
-The frontend sends user queries to the FastAPI backend.
+---
 
-Based on the query, the backend routes the request to the appropriate LangChain AI agent.
+## 📸 Screenshots
 
-The selected agent processes the request using intelligent prompts and APIs.
+**🏠 Home Page**  
+![Home Page](/images/home.png)
 
-Results are returned and displayed instantly on the frontend.
+**ℹ️ About Page**  
+![About Page](/images/about.png)
 
-🚀 Future Roadmap
-🗣️ Voice Assistant Integration – Support for Sinhala and Tamil voice input.
+---
 
-📱 Mobile App Version – Native app for enhanced on-the-go travel planning.
+## 🧭 How It Works
 
-📍 Smart Route Planner – Real-time traffic-based navigation suggestions.
+1. Users interact through a clean web UI.
+2. The frontend sends queries to the FastAPI backend.
+3. The backend routes the query to the appropriate LangChain agent.
+4. The agent processes the query and returns structured, helpful responses.
+5. The results are displayed instantly in the UI.
 
-✈️ Travel Booking APIs – Integration with flight and hotel booking platforms.
+---
 
-🤝 Contributing
-We welcome feedback, feature suggestions, and code contributions to make this open-source project even more useful for the Sri Lankan community.
+## 🚀 Future Enhancements
 
-📌 License
-This project is licensed under the MIT License. Feel free to use, modify, and share!
+- 🗣️ Voice assistant integration (Sinhala/Tamil support)
+- 📱 Mobile app version
+- 📍 Smart route planning with live traffic insights
+- ✈️ Integration with flight and hotel booking APIs
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions, feedback, and suggestions to improve this open solution for the Sri Lankan community.
+
+---
+
+## 📌 License
+
+This project is licensed under the **MIT License**.
