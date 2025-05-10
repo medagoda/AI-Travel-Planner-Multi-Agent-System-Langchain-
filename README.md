@@ -1,62 +1,62 @@
 🧠🇱🇰 AI Trip Planner for the Sri Lankan Community
-Explore Sri Lanka smarter.
-An intelligent, AI-powered travel assistant built to simplify and enrich your travel planning experience across the island. Whether you're a local adventurer or a curious tourist, this platform helps you discover the best routes, weather updates, and must-visit places in Sri Lanka — all in one place.
+Explore Sri Lanka smarter with an AI-powered travel assistant.
 
-🌟 Key Highlights
-🤖 AI-Powered Agents (via LangChain + FastAPI)
-🌦️ Weather Agent – Get real-time weather updates for any location in Sri Lanka.
+Whether you're a local adventurer or a curious tourist, this platform simplifies your travel planning with intelligent agents that provide real-time weather, train schedules, and destination recommendations — all tailored to Sri Lanka.
 
-🚆 Train Schedule Agent – Retrieve accurate train timings and routes.
+🌟 Features at a Glance
+🤖 AI-Powered Agents (Built with LangChain + FastAPI)
+Weather Agent – Real-time weather updates for any location across Sri Lanka.
 
-🗺️ Places Recommendation Agent – Explore top attractions and cultural landmarks nearby.
+Train Schedule Agent – Accurate and up-to-date train timings and route details.
 
-All agents are built using LangChain for smart prompt handling and connected via a robust FastAPI backend.
+Places Recommendation Agent – Discover popular attractions, hidden gems, and cultural landmarks near you.
 
-🖥️ Frontend Features
-🏠 Home Page – Clean, welcoming UI with a visual introduction to the platform.
+All agents leverage LangChain for dynamic prompt processing and are integrated into a FastAPI backend for seamless communication.
 
-ℹ️ About Page – Describes the platform’s mission, AI capabilities, and how users benefit.
+🖥️ Frontend Overview
+🏠 Home Page – Welcoming UI with an intuitive overview of features.
 
-🎨 Responsive Design – Optimized for mobile and desktop devices using modern web technologies.
+ℹ️ About Page – Learn about the platform’s mission, AI capabilities, and community benefits.
+
+🎨 Responsive Design – Fully optimized for both mobile and desktop using modern web technologies.
 
 🛠️ Tech Stack
 Layer	Technology
-Frontend	HTML, CSS, JS (or React if used)
+Frontend	HTML, CSS, JavaScript (or React)
 Backend	FastAPI (Python)
 AI Agents	LangChain + Custom Prompt Chains
-Deployment	(Optional: Add if deployed on Vercel, Render, etc.)
-Others	OpenWeather API, Train data APIs, Google Places API
+APIs	OpenWeather API, Train Data APIs, Google Places API
+Deployment	Optional: Add info here if deployed (e.g., Vercel, Render)
 
 📸 Screenshots
 🏠 Home Page
-![Home Page](/images/home.png) <!-- Replace with your actual image path -->
+<!-- Replace with your actual image path -->
 
 ℹ️ About Page
-![About Page](/images/about.png) <!-- Replace with your actual image path -->
+<!-- Replace with your actual image path -->
 
 🧭 How It Works
-Users interact via a clean web UI.
+Users interact with a clean, user-friendly web interface.
 
-The frontend communicates with FastAPI backend.
+The frontend sends user queries to the FastAPI backend.
 
-Depending on the query, the backend routes it to one of the LangChain agents.
+Based on the query, the backend routes the request to the appropriate LangChain AI agent.
 
-The agent processes the request and returns structured, helpful responses.
+The selected agent processes the request using intelligent prompts and APIs.
 
-Results are displayed instantly in the UI.
+Results are returned and displayed instantly on the frontend.
 
-🚀 Future Enhancements
-🗣️ Voice assistant integration (Sinhala/Tamil support)
+🚀 Future Roadmap
+🗣️ Voice Assistant Integration – Support for Sinhala and Tamil voice input.
 
-📱 Mobile app version
+📱 Mobile App Version – Native app for enhanced on-the-go travel planning.
 
-📍 Smart route planning with live traffic insights
+📍 Smart Route Planner – Real-time traffic-based navigation suggestions.
 
-✈️ Integration with flight and hotel booking APIs
+✈️ Travel Booking APIs – Integration with flight and hotel booking platforms.
 
 🤝 Contributing
-Contributions, feedback, and suggestions are welcome to improve this open solution for the Sri Lankan community.
+We welcome feedback, feature suggestions, and code contributions to make this open-source project even more useful for the Sri Lankan community.
 
 📌 License
-This project is open-source under the MIT License.
-
+This project is licensed under the MIT License. Feel free to use, modify, and share!
