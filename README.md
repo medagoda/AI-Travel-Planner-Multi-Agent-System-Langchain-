@@ -14,7 +14,7 @@ This application is built with the goal of enhancing travel planning for locals 
 - 🏠 **Home Page** – Welcoming interface with a brief introduction and attractive visuals.
 - ℹ️ **About Page** – Describes the purpose of the platform and how it helps users.
 - 🎨 Built with modern web technologies for responsive and smooth user experience.
-- - 🤖 **AI-Powered Suggestions** – Uses LangChain to provide contextual travel tips and destination recommendations.
+- 🤖 **AI-Powered Suggestions** – Uses LangChain to provide contextual travel tips and destination recommendations.
 - ⚡ **Backend API** – Built with FastAPI to serve travel data and integrate AI services.
 - 📱 **Responsive Design** – Optimized for both desktop and mobile devices using modern frontend tools.
 
